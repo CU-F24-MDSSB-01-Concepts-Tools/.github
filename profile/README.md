@@ -1,4 +1,4 @@
-## 👋 Data Science Concepts/Tools 2023 @ Constructor University Master "Data Science for Society and Business"
+## 👋 Data Science Concepts/Tools 2024 @ Constructor University Master "Data Science for Society and Business"
 
 🙋‍♀️ This GitHub organization is the practice area for both modules. 
 
