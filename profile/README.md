@@ -3,14 +3,15 @@
 🙋‍♀️
 This GitHub organization is the practice area for the modules Data Science Concepts and Data Science Tools.   
 
-It has *public* information in  
-[**Syllabus and Schedule Website**](https://cu-f24-mdssb-01-concepts-tools.github.io/Website/)
+It has *public* information:  
+[**Syllabus and Schedule Website**](https://cu-f24-mdssb-01-concepts-tools.github.io/Website/)  
+You are expected to read the syllabus in full and to look there for course and scheduling information. 
 
-and *private* information on course organization when information about students in the course is involved    
+It has *private* information on course organization when information about students in the course is involved:     
 [**Course-Organization-Resources**](https://github.com/cu-f24-mdssb-01-concepts-tools/Course-Organization-Resources)
 
 👩‍💻 
-The main purpose of the organization is to provide **personalized repositories** for registered students for **homework projects** and the **final project**! You have to become a member. 
+The main purpose of the organization is to provide **personalized repositories** for registered students for **Homework Projects** and the **final project**! You have to become a member. 
 Your repos are private and only you and the instructors can see them. Not even your fellow students can see them. 
 
 
