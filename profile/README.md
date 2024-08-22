@@ -7,7 +7,7 @@ It has *public* information in
 [**Syllabus and Schedule Website**](https://cu-f24-mdssb-01-concepts-tools.github.io/Website/)
 
 and *private* information on course organization when information about students in the course is involved    
-[**Course-Organization-Resources**](https://cu-f24-mdssb-01-concepts-tools.github.io/Course-Organization-Resources)
+[**Course-Organization-Resources**](https://github.com/cu-f24-mdssb-01-concepts-tools/Course-Organization-Resources)
 
 👩‍💻 
 The main purpose of the organization is to provide **personalized repositories** for registered students for **homework projects** and the **final project**! You have to become a member. 
