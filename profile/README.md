@@ -3,11 +3,18 @@
 🙋‍♀️
 This GitHub organization is the practice area for the modules Data Science Concepts and Data Science Tools.   
 
-It has *public* information:  
+⏩ **All students in MDSSB (onsite) and MDSSBO (online) must become members of this organization!** (See below. 👇 )
+
+Further resources provided: 
+
+For ONSITE students:  
 [**Syllabus and Schedule Website**](https://cu-f24-mdssb-01-concepts-tools.github.io/Website/)  
 You are expected to read the syllabus in full and to look there for course and scheduling information. 
 
-It has *private* information on course organization when information about students in the course is involved:     
+For ONLINE students: 
+Look for the Course "Data Science Concepts" on [learn.constructor.university](https://learn.constructor.university).
+
+In the organization there is a *private* repository for course organization to provide information online to be shared within the courses:         
 [**Course-Organization-Resources**](https://github.com/cu-f24-mdssb-01-concepts-tools/Course-Organization-Resources)
 
 👩‍💻 
